@@ -1,4 +1,7 @@
 # Esse é o código usado na avaliação de 2024 da disciplina de Inteligencia Artificial #
+# > Video da Gamapley demosntrando o uso da Máquina de Estados Finitos # 
+https://youtu.be/yKskhS4arM0
+
 # > O Diagrama da Máquina de Estados Finitos # 
 ![image](https://github.com/EddieDuda/Avalia-o-2024/assets/111926934/33009fb7-b73a-445b-b089-9e42147d8f1c)
 
