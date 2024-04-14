@@ -1,5 +1,6 @@
 # Esse é o código usado na avaliação de 2024 da disciplina de Inteligencia Artificial #
-Alunos> Eduarda Alexandrino e Vinicius Dias
+Alunos: Eduarda Alexandrino e Vinicius Dias
+
 # > Video da Gamapley demosntrando o uso da Máquina de Estados Finitos # 
 https://youtu.be/yKskhS4arM0
 
