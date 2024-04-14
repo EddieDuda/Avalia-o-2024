@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 63bf0877f058c6a4ab36afe1c0c5a9db
+  productGUID: 946197629d7c7cb46b9dbe85f0281c70
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project
+  productName: "Avalia\xE7\xE3o 2024"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -629,14 +629,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project
+  metroPackageName: "Avalia\xE7\xE3o 2024"
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project
+  metroApplicationDescription: "Avalia\xE7\xE3o 2024"
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -704,11 +704,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 18fabea0-81bc-4636-964d-52cda9209982
+  cloudProjectId: f8355568-77fb-4c98-abc8-aacfcd971421
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project
-  organizationId: srmrcalango
+  projectName: "Avalia\xE7\xE3o 2024"
+  organizationId: dudaseeker
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

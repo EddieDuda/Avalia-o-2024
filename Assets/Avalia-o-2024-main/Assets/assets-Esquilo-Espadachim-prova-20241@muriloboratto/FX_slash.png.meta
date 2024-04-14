@@ -38,11 +38,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -81,6 +82,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
@@ -93,6 +95,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -105,6 +108,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -117,6 +121,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -126,10 +144,10 @@ TextureImporter:
       name: FX_slash_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1308
-        width: 602
-        height: 654
+        x: 8
+        y: 1373
+        width: 594
+        height: 488
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,9 +166,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 602
-        y: 1308
-        width: 602
-        height: 654
+        y: 1530
+        width: 156
+        height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +186,10 @@ TextureImporter:
       name: FX_slash_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 654
-        width: 602
-        height: 654
+        x: 738
+        y: 1590
+        width: 25
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +207,10 @@ TextureImporter:
       name: FX_slash_3
       rect:
         serializedVersion: 2
-        x: 602
-        y: 654
-        width: 602
-        height: 654
+        x: 110
+        y: 746
+        width: 358
+        height: 412
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +228,10 @@ TextureImporter:
       name: FX_slash_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 602
-        height: 654
+        x: 707
+        y: 753
+        width: 337
+        height: 181
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +249,10 @@ TextureImporter:
       name: FX_slash_5
       rect:
         serializedVersion: 2
-        x: 602
-        y: 0
-        width: 602
-        height: 654
+        x: 80
+        y: 47
+        width: 482
+        height: 516
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,6 +262,48 @@ TextureImporter:
       bones: []
       spriteID: 0251765252a07bdd0800000000000000
       internalID: -2470494715931847392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_slash_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 279
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e7bd8d42bfbf43908365741b92a4f
+      internalID: 1339266635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FX_slash_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 163
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341bd1f6046b4840b78519ac844faf1
+      internalID: -380764415
       vertices: []
       indices: 
       edges: []
@@ -265,9 +325,10 @@ TextureImporter:
       FX_slash_3: -6627912827302097682
       FX_slash_4: 3152946140649009537
       FX_slash_5: -2470494715931847392
-  spritePackingTag: 
+      FX_slash_6: 1339266635
+      FX_slash_7: -380764415
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
